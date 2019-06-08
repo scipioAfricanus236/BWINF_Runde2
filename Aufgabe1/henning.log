@@ -1,0 +1,7 @@
+INFO 2019-04-28 22:25:23,999 - beginning
+INFO 2019-04-28 22:25:24,000 - possible edges
+INFO 2019-04-28 22:25:24,787 - intersections with the bus
+INFO 2019-04-28 22:25:24,902 - final edges
+INFO 2019-04-28 22:25:24,907 - eliminate inner edges
+INFO 2019-04-28 22:25:24,908 - graph is created
+INFO 2019-04-28 22:25:26,719 - get final path

@@ -1,0 +1,7 @@
+ # print("Distance to the bus (in m): ", path.distance)
+        # print("Required time for Lisa to reach the bus (in s): ", path.time)
+        # print("Departure: ", path.departure)
+        # print("Arrival at the bus :", path.arrival)
+        # print("Distance the bus has already driven when Lisa enters the bus (in m):", path.arrivalinM)
+        # print("Path:", path.path)
+        # print("Obstacles:", self.polygones)
